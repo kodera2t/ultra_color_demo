@@ -8,7 +8,7 @@
 
 
 #define __CS1   8
-#define __DC 	9
+#define __DC 	10
 #define __RST 9
 
 SSD_13XX tft1 = SSD_13XX(__CS1, __DC, __RST);
